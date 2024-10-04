@@ -7,7 +7,9 @@
 - 🌱 I’m currently interested in the future of i18n & wasm  
   
 
-- 📦 Recently open source software releasing  
+- 📦 Recently open source software releasing
+  
+- 💖 I need sponsors to keep my projects maintained
   
 
 My popular OSS projects are as follows: 👇🏼  
