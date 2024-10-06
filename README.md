@@ -3,7 +3,7 @@
 
 - 🏃 I’m currently working on Intlify projects (e.g. vue-i18n) and projects within the Vue.js and Nuxt ecosystem (nuxt-i18n)
   
-- [edite javascript interview questions](https://www.somewebsite.com "somewebsite's Homepage")
+- edite javascript interview questions [Slash Frontend Interview](https://www.somewebsite.com "somewebsite's Homepage")
 
 - 🌱 I’m currently interested in the future of i18n & wasm  
   
