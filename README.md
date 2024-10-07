@@ -1,4 +1,3 @@
-![](https://github.com/yangshun/yangshun/raw/main/img/js-interview-tall.png)
 ### Hi there 👋 I'm Shivam!  
   
 
