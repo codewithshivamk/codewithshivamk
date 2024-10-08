@@ -1,4 +1,4 @@
-![](https://github.com/codewithshivamk/codewithshivamk/blob/main/slashbanner.png?raw=true)
+![](https://github.com/codewithshivamk/codewithshivamk/blob/main/communitybanner.png?raw=true)
 ### Hi there 👋 I'm Shivam!  
   
 
