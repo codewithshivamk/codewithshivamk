@@ -1,4 +1,4 @@
-![]([https://github.com/nexcodeacademy/frontend-interview/blob/main/nexcodebanner.png?raw=true](https://github.com/codewithshivamk/codewithshivamk/blob/main/Savio%20Header.png?raw=true)](https://github.com/codewithshivamk/codewithshivamk/blob/main/Savio%20Header.png?raw=true))
+![](https://pbs.twimg.com/profile_banners/1867968138542764032/1734196987/1080x360)
 ### Hi there 👋 I'm Shivam!  
   
 
